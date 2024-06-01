@@ -76,3 +76,6 @@ confusion_matrix(y_true= y_resampled_test,y_pred= y_pred)
 
 from sklearn.metrics import f1_score,fbeta_score
 f1_score(y_true= y_resampled_test,y_pred=y_pred)
+
+
+print("end of the program")
